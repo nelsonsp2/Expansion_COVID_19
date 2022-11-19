@@ -1,0 +1,26 @@
+
+		A		B		C		D		E		F		G		H		I		J		K		L		M		N		O		P		Q		R		S		T		U		V		W
+   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .
+A|		 0		1500		1531		2600		2500		  X		2300		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X
+B|		  X		 0		  X		  X		897		  X		  X		  X		  X		678		2000		600		632		567		700		675		  X		  X		  X		  X		  X		  X		  X
+C|		  X		740		 0		599		  X		  X		  X		  X		  X		  X		  X		600		  X		  X		  X		500		  X		  X		  X		  X		678		  X		607
+D|		  X		  X		  X		 0		  X		  X		670		  X		590		  X		698		  X		  X		  X		  X		  X		  X		  X		  X		  X		  X		670		786
+E|		  X		  X		  X		  X		 0		700		  X		  X		800		  X		  X		678		531		636		  X		  X		  X		  X		512		  X		  X		600		  X
+F|		  X		  X		678		600		1000		 0		  X		848		1250		750		  X		  X		  X		  X		  X		970		  X		  X		  X		  X		  X		  X		  X
+G|		  X		  X		  X		  X		  X		890		 0		  X		  X		  X		630		  X		  X		  X		900		  X		  X		  X		700		  X		546		  X		657
+H|		  X		700		  X		  X		500		  X		  X		 0		  X		700		  X		  X		  X		676		  X		609		  X		  X		  X		  X		  X		  X		  X
+I|		  X		  X		  X		  X		513		671		437		671		 0		238		678		  X		800		850		  X		  X		  X		  X		  X		  X		  X		  X		789
+J|		  X		  X		  X		706		  X		  X		800		  X		  X		 0		  X		  X		600		  X		  X		  X		  X		  X		709		540		  X		  X		  X
+K|		  X		  X		  X		  X		  X		654		  X		645		  X		700		 0		  X		900		  X		  X		  X		  X		  X		  X		  X		860		  X		  X
+L|		  X		  X		  X		897		  X		987		  X		  X		  X		  X		  X		 0		  X		  X		  X		674		  X		  X		789		  X		  X		549		1100
+M|		  X		  X		890		  X		  X		  X		  X		  X		  X		  X		  X		765		 0		  X		  X		  X		  X		600		632		500		  X		  X		  X
+N|		  X		  X		  X		  X		  X		700		  X		  X		  X		  X		874		  X		1000		 0		  X		  X		  X		  X		  X		1500		500		  X		  X
+O|		  X		  X		  X		  X		  X		  X		  X		900		  X		650		  X		  X		  X		954		 0		  X		845		  X		  X		  X		  X		700		  X
+P|		  X		  X		  X		  X		300		  X		  X		  X		600		  X		  X		730		  X		890		789		 0		  X		603		  X		897		  X		  X		  X
+Q|		  X		  X		  X		1200		  X		800		1300		  X		  X		  X		740		678		  X		998		  X		645		 0		  X		  X		  X		  X		  X		  X
+R|		  X		576		  X		  X		  X		  X		  X		  X		  X		  X		  X		504		  X		600		  X		  X		630		 0		  X		  X		568		  X		  X
+S|		  X		  X		  X		  X		  X		500		  X		  X		  X		  X		950		  X		  X		  X		800		768		  X		  X		 0		  X		700		897		  X
+T|		  X		850		  X		  X		900		  X		  X		767		  X		  X		  X		  X		  X		  X		  X		800		  X		850		  X		 0		  X		  X		  X
+U|		  X		  X		  X		600		  X		  X		  X		700		890		  X		  X		770		  X		  X		120		  X		500		  X		  X		  X		 0		  X		  X
+V|		  X		690		532		  X		  X		  X		  X		  X		  X		  X		  X		  X		2000		100		  X		988		  X		900		  X		633		  X		 0		  X
+W|		  X		  X		  X		  X		  X		500		  X		  X		  X		  X		  X		  X		  X		  X		578		540		607		  X		604		  X		870		  X		 0
